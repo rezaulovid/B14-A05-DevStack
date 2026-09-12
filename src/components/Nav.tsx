@@ -3,12 +3,12 @@ import logo from "../assets/logo-text.png";
 const Nav = () => {
   return (
     <nav className="border-b border-sky-400 bg-white">
-      <div className="container mx-auto flex h-[70px] items-center justify-between px-6">
+      <div className="container mx-auto flex h-17.5 items-center justify-between px-6">
 
         <img
           src={logo}
           alt="DevStack"
-          className="w-[110px]"
+          className="w-27.5"
         />
 
         <ul className="hidden items-center gap-7 text-sm text-slate-600 md:flex">

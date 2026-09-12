@@ -49,7 +49,7 @@ button {
 
 .header h1 span {
   background: linear-gradient(90deg, #df5c9b, #9d5ec4);
-  -webkit-background-clip: text;
+  -background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 

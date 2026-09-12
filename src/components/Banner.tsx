@@ -9,7 +9,7 @@ const Banner = () => {
             Build Your Ideal
             <br />
 
-            <span className="bg-gradient-to-r from-orange-500 via-pink-500 to-purple-600 bg-clip-text text-transparent">
+            <span className="bg-linear-to-r from-orange-500 via-pink-500 to-purple-600 bg-clip-text text-transparent">
               Development Stack
             </span>
           </h1>
@@ -24,7 +24,7 @@ const Banner = () => {
           <div className="mt-10 flex gap-4">
 
             <button
-              className="rounded-lg bg-gradient-to-r from-orange-500 via-pink-500 to-pink-600 px-5 py-3 text-sm font-semibold text-white transition hover:scale-105"
+              className="rounded-lg bg-linear-to-r from-orange-500 via-pink-500 to-pink-600 px-5 py-3 text-sm font-semibold text-white transition hover:scale-105"
             >
               Explore Technologies
             </button>
@@ -43,7 +43,7 @@ const Banner = () => {
           <img
             src="/assets/banner-stack.png"
             alt="Development Stack"
-            className="w-[280px] object-contain transition duration-500 hover:scale-105 sm:w-[340px] md:w-[400px] lg:w-[460px]"
+            className="w-70 object-contain transition duration-500 hover:scale-105 sm:w-85 md:w-100 lg:w-115"
           />
         </div>
 

@@ -1,4 +1,4 @@
-[
+[ 
     {
        "id": 1,
         "name": "React",
@@ -131,4 +131,5 @@
         "level": "Intermediate",
         "rating": 4.9
     }
+    
 ]

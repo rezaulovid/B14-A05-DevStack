@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           {/* Brand */}
           <div>
             <div className="mb-4 flex items-center gap-2">
-              <div className="flex h-6 w-6 items-center justify-center rounded-md bg-gradient-to-r from-purple-500 to-pink-500 text-xs font-bold text-white">
+              <div className="flex h-6 w-6 items-center justify-center rounded-md bg-linear-to-r from-purple-500 to-pink-500 text-xs font-bold text-white">
                 DS
               </div>
 
