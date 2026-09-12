@@ -41,7 +41,7 @@ const Banner = () => {
         {/* Right Image */}
         <div className="flex w-full justify-center lg:w-1/2 lg:justify-end">
           <img
-            src="/assets/banner-stack.png"
+            src="../assets/banner-stack.png"
             alt="Development Stack"
             className="w-70 object-contain transition duration-500 hover:scale-105 sm:w-85 md:w-100 lg:w-115"
           />
